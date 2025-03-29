@@ -2,9 +2,9 @@
 
 
 </h1>
-<h1 align="center">Hello! I'm Luis Rufino</h1>
+<h1 align="center">Olá! Eu sou Luis Rufino</h1>
 
-<h4 align="left">🌟Data Analytics Professional with a focus on Python, SQL, Business Intelligence, and Machine Learning. Pursuing a postgraduate degree in Data Analytics at FIAP, applying advanced analytical techniques to support decision-making and optimize processes. Experienced in project management, automation, and performance analysis, with a strong foundation in business contexts and continuous improvement.</h4>
+<h4 align="left">Trabalho com Análise de Dados focado em Python, SQL, Business Intelligence e Machine Learning. Aplico técnicas de análise para apoiar a tomada de decisão e otimizar processos de negócio.</h4>
 
  <div align="center">
 <a href="https://github.com/luishrufino">
@@ -25,16 +25,15 @@
 
 
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
+<!-- sobre mim -->
+ <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+
+- Graduado em Administração pela Universidade Estadual de Feira de Santana.</br>
+- Pós-graduando em Data Analytics pela FIAP.</br>
+- Domínio em ferramentas voltadas para análise e visualização de dados: Excel, Python, SQL, Qlik Sense e Power BI.</br>
+-  Interesse em Machine Learning, Deep Learning, Ciência de Dados e Inteligência Artificial.</br> <div align="left"> 
