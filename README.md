@@ -36,4 +36,10 @@
 - Graduado em Administração pela Universidade Estadual de Feira de Santana.</br>
 - Pós-graduando em Data Analytics pela FIAP.</br>
 - Domínio em ferramentas voltadas para análise e visualização de dados: Excel, Python, SQL, Qlik Sense e Power BI.</br>
--  Interesse em Machine Learning, Deep Learning, Ciência de Dados e Inteligência Artificial.</br> <div align="left"> 
+- Interesse em Machine Learning, Deep Learning, Ciência de Dados e Inteligência Artificial.</br> <div align="left"> 
+
+
+  <a href="mailto:hdluisdh@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+
+
