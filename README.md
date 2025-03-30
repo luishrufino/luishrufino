@@ -25,8 +25,6 @@
 
 ##
 
-<img align="right" alt="coding-gif" width="300" src="https://github.com/luishrufino/luishrufino/blob/main/5Btx.gif">
-
 <!-- sobre mim -->
 ### 👨‍💻 Sobre Mim
 
