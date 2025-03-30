@@ -25,10 +25,10 @@
 
 ##
 
+<img align="right" alt="coding-gif" width="300" src="https://github.com/luishrufino/luishrufino/blob/main/5Btx.gif">
+
 <!-- sobre mim -->
- <h3 align="left">👨‍💻 Sobre Mim</h3>
-
-
+### 👨‍💻 Sobre Mim
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
@@ -41,7 +41,6 @@
 
   <a href="mailto:hdluisdh@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discordapp.com/users/hdluis" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
 
 ##
 
@@ -62,9 +61,8 @@
 
 ##
 
-<!-- Top Repositories and Tech Stack -->
-<div align="left">
-  <h3>⭐️ Top Repositories</h3>
+
+### ⭐️ Top Repositorie
   <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 15px; margin-top: 20px;">
     <!-- Repositório Previsão Ibovespa -->
     <a href="https://github.com/luishrufino/previsao_ibovespa">
