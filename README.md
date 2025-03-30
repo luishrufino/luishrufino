@@ -23,7 +23,7 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/luishrufino?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
-
+##
 
 <!-- sobre mim -->
  <h3 align="left">👨‍💻 Sobre Mim</h3>
@@ -49,4 +49,28 @@
 
 <div align="center">
   <img src="https://github.com/luishrufino/luishrufino/blob/main/Group%203.png" />
+</div>
+
+##
+
+### ⚡ Github Status
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luishrufino&theme=city_lights) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luishrufino&theme=city_lights) |
+ | :-: | :-: |
+
+##
+
+<!-- Top Repositories and Tech Stack -->
+<div align="left">
+  <h3>⭐️ Top Repositories</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 15px; margin-top: 20px;">
+    <!-- Repositório Previsão Ibovespa -->
+    <a href="https://github.com/luishrufino/previsao_ibovespa">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luishrufino&repo=previsao_ibovespa&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Previsão Ibovespa"/>
+    </a>
+   
+</div>
+  
 </div>
