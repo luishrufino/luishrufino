@@ -7,10 +7,7 @@
 <h4 align="left">Trabalho com Análise de Dados focado em Python, SQL, Business Intelligence e Machine Learning. Aplico técnicas de análise para apoiar a tomada de decisão e otimizar processos de negócio.</h4>
 
  <div align="center">
-<a href="https://github.com/luishrufino">
-  <img width="162px" 
-       src="https://komarev.com/ghpvc/?username=luishrufino&label=Profile%20views&color=318CE7&style=for-the-badge" 
-       alt="Profile views" /></a>
+
 <a href="https://api.github-star-counter.workers.dev/user/luishrufino">
   <img width="115px" 
        alt="Total stars" 
